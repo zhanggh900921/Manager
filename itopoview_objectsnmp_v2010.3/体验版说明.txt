@@ -1,0 +1,9 @@
+文件清单：
+1.zhtelecombasis.jar  iTopoview和ObjectSNMP软件的java库
+2.iTopoviewHelp.doc   iTopoview用户手册
+3.src_itopoview       iTopoview的示例程序源代码
+4.ObjectSNMPHelp.doc  ObjectSNMP用户手册
+5.src_objectsnmp      ObjectSNMP的示例程序源代码
+
+体验版每次连续运行时间最长为10天，超过后自动退出，需再次启动运行。
+软件运行环境:Java1.5以上版本。
